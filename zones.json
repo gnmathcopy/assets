@@ -523,7 +523,7 @@
     "cover": "{COVER_URL}/64.png",
     "url": "{HTML_URL}/64.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
     "featured": true,
   },
   {
@@ -532,7 +532,7 @@
     "cover": "{COVER_URL}/65.png",
     "url": "{HTML_URL}/65.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
     "featured": true,
   },
   {
@@ -733,7 +733,7 @@
     "cover": "{COVER_URL}/90.png",
     "url": "{HTML_URL}/90.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
     "featured": true,
   },
   {
@@ -806,7 +806,7 @@
     "cover": "{COVER_URL}/99.png",
     "url": "{HTML_URL}/99.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
     "featured": true,
   },
   {
@@ -1007,7 +1007,7 @@
     "cover": "{COVER_URL}/125.png",
     "url": "{HTML_URL}/125.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
     "featured": true,
   },
   {
@@ -1016,7 +1016,7 @@
     "cover": "{COVER_URL}/126.png",
     "url": "{HTML_URL}/126.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
     "featured": true,
   },
   {
@@ -2060,7 +2060,7 @@
     "cover": "{COVER_URL}/258.png",
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
-    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys"
+    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys",
     "featured": true,
   },
   {
@@ -2788,7 +2788,7 @@
     "cover": "{COVER_URL}/348.png",
     "url": "{HTML_URL}/348.html",
     "author": "OnHit Developments",
-    "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming"
+    "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming",
     "featured": true,
   },
   {
@@ -3416,7 +3416,7 @@
     "cover": "{COVER_URL}/428.png",
     "url": "{HTML_URL}/428.html",
     "author": "Scott Cawthon",
-    "authorLink": "https://scottgames.com"
+    "authorLink": "https://scottgames.com",
     "featured": true,
   },
   {
@@ -3449,7 +3449,7 @@
     "cover": "{COVER_URL}/432.png",
     "url": "{HTML_URL}/432.html",
     "author": "krutovig",
-    "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned"
+    "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned",
     "featured": true,
   },
   {
@@ -3597,7 +3597,7 @@
     "cover": "{COVER_URL}/450.png",
     "url": "{HTML_URL}/450.html",
     "author": "MANGLEDmaw Games, DreadXP",
-    "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer"
+    "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer",
     "featured": true,
   },
   {
@@ -3606,7 +3606,7 @@
     "cover": "{COVER_URL}/451.png",
     "url": "{HTML_URL}/451.html",
     "author": "Parsec Productions",
-    "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096"
+    "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096",
     "featured": true,
   },
   {
@@ -3671,7 +3671,7 @@
     "cover": "{COVER_URL}/459.png",
     "url": "{HTML_URL}/459.html",
     "author": "Zed Technician",
-    "authorLink": "https://zed-technician.itch.io/the-man-from-the-window"
+    "authorLink": "https://zed-technician.itch.io/the-man-from-the-window",
     "featured": true,
   },
   {
@@ -3680,7 +3680,7 @@
     "cover": "{COVER_URL}/460.png",
     "url": "{HTML_URL}/460.html",
     "author": "Rayll",
-    "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone"
+    "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone",
     "featured": true,
   },
   {
@@ -4128,7 +4128,7 @@
     "cover": "{COVER_URL}/515.png",
     "url": "{HTML_URL}/515.html",
     "author": "BerickCook",
-    "authorLink": "https://berickcook.itch.io/pacman"
+    "authorLink": "https://berickcook.itch.io/pacman",
     "featured": true,
   },
   {
