@@ -1,4 +1,10 @@
-
+[
+  {
+    "id": -1,
+    "name": "Hello",
+    "cover": "{COVER_URL}/dc.png",
+    "url": ""
+  },
   {
     "id": 0,
     "name": "Bowmasters",
