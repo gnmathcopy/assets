@@ -524,6 +524,7 @@
     "url": "{HTML_URL}/64.html",
     "author": "",
     "authorLink": ""
+    "featured": true
   },
   {
     "id": 65,
@@ -532,6 +533,7 @@
     "url": "{HTML_URL}/65.html",
     "author": "",
     "authorLink": ""
+    "featured": true
   },
   {
     "id": 66,
@@ -732,6 +734,7 @@
     "url": "{HTML_URL}/90.html",
     "author": "",
     "authorLink": ""
+    "featured": true
   },
   {
     "id": 91,
@@ -804,6 +807,7 @@
     "url": "{HTML_URL}/99.html",
     "author": "",
     "authorLink": ""
+    "featured": true
   },
   {
     "id": 100,
@@ -1004,6 +1008,7 @@
     "url": "{HTML_URL}/125.html",
     "author": "",
     "authorLink": ""
+    "featured": true
   },
   {
     "id": 126,
@@ -1012,6 +1017,7 @@
     "url": "{HTML_URL}/126.html",
     "author": "",
     "authorLink": ""
+    "featured": true
   },
   {
     "id": 127,
@@ -1332,7 +1338,6 @@
     "url": "{HTML_URL}/166.html",
     "author": "98corbins",
     "authorLink": "https://98corbins.netlify.app",
-    "featured": true
   },
   {
     "id": 167,
@@ -1437,7 +1442,7 @@
     "url": "{HTML_URL}/179.html",
     "author": "genizy",
     "authorLink": "https://github.com/genizy/soundboard/",
-    "featured": true
+    
   },
   {
     "id": 180,
@@ -1462,7 +1467,7 @@
     "url": "{HTML_URL}/182.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com",
-    "featured": true
+    
   },
   {
     "id": 183,
@@ -1543,7 +1548,7 @@
     "url": "{HTML_URL}/194.html",
     "author": "Studio Minus, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1118200/",
-    "featured": true
+    
   },
   {
     "id": 195,
@@ -1552,7 +1557,7 @@
     "url": "{HTML_URL}/195.html",
     "author": "semiwork, 98corbins",
     "authorLink": "https://store.steampowered.com/app/3241660/",
-    "featured": true
+    
   },
   {
     "id": 196,
@@ -1561,7 +1566,7 @@
     "url": "{HTML_URL}/196-fixed.html",
     "author": "New Blood Interactive, Cake Logic",
     "authorLink": "https://sites.google.com/view/cakelogic",
-    "featured": true
+    
   },
   {
     "id": 197,
@@ -1634,7 +1639,7 @@
     "url": "{HTML_URL}/205.html",
     "author": "Mike Klubnika",
     "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette",
-    "featured": true
+    
   },
   {
     "id": 206,
@@ -1725,6 +1730,7 @@
     "author": "Nacho Games",
     "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
     "featured": true
+    
   },
   {
     "id": 217,
@@ -1733,7 +1739,7 @@
     "url": "{HTML_URL}/217-c.html",
     "author": "Dennaton Games",
     "authorLink": "https://store.steampowered.com/app/219150/Hotline_Miami/",
-    "featured": true
+    
   },
   {
     "id": 218,
@@ -2022,7 +2028,7 @@
     "url": "{HTML_URL}/253.html",
     "author": "gn-math",
     "authorLink": "https://gn-math.github.io",
-    "featured": true
+    
   },
   {
     "id": 255,
@@ -2055,6 +2061,7 @@
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
     "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys"
+    "featured": true
   },
   {
     "id": 259,
@@ -2063,7 +2070,7 @@
     "url": "{HTML_URL}/259.html",
     "author": "sbn3",
     "authorLink": "https://sbn3.com",
-    "featured": true
+    
   },
   {
     "id": 260,
@@ -2072,7 +2079,7 @@
     "url": "{HTML_URL}/260.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/rerun",
-    "featured": true
+    
   },
   {
     "id": 261,
@@ -2089,7 +2096,7 @@
     "url": "{HTML_URL}/262.html",
     "author": "Valve",
     "authorLink": "https://www.valvesoftware.com/en/",
-    "featured": true
+    
   },
   {
     "id": 263,
@@ -2098,7 +2105,7 @@
     "url": "{HTML_URL}/263.html",
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com/en",
-    "featured": true
+    
   },
   {
     "id": 264,
@@ -2123,7 +2130,7 @@
     "url": "{HTML_URL}/266.html",
     "author": "Luke Doukakis",
     "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/",
-    "featured": true
+    
   },
   {
     "id": 267,
@@ -2132,7 +2139,7 @@
     "url": "{HTML_URL}/267.html",
     "author": "Tour De Pizza, BurnedPopcorn",
     "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
-    "featured": true
+    
   },
   {
     "id": 268,
@@ -2645,7 +2652,7 @@
     "url": "{HTML_URL}/331.html",
     "author": "No Pressure Studios",
     "authorLink": "https://www.nopressurestudios.com",
-    "featured": true
+    
   },
   {
     "id": 332,
@@ -2782,6 +2789,7 @@
     "url": "{HTML_URL}/348.html",
     "author": "OnHit Developments",
     "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming"
+    "featured": true
   },
   {
     "id": 349,
@@ -3382,7 +3390,7 @@
     "url": "{HTML_URL}/423.html",
     "author": "LameDev",
     "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/",
-    "featured": true
+    
   },
   {
     "id": 426,
@@ -3400,6 +3408,7 @@
     "author": "Omocat",
     "authorLink": "https://omocat.com",
     "featured": true
+    
   },
   {
     "id": 428,
@@ -3408,6 +3417,7 @@
     "url": "{HTML_URL}/428.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com"
+    "featured": true
   },
   {
     "id": 429,
@@ -3440,6 +3450,7 @@
     "url": "{HTML_URL}/432.html",
     "author": "krutovig",
     "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned"
+    "featured": true
   },
   {
     "id": 433,
@@ -3545,7 +3556,7 @@
     "url": "{HTML_URL}/445.html",
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/589590/Kindergarten",
-    "featured": true
+    
   },
   {
     "id": 446,
@@ -3554,7 +3565,7 @@
     "url": "{HTML_URL}/446.html",
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2",
-    "featured": true
+    
   },
   {
     "id": 447,
@@ -3587,6 +3598,7 @@
     "url": "{HTML_URL}/450.html",
     "author": "MANGLEDmaw Games, DreadXP",
     "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer"
+    "featured": true
   },
   {
     "id": 451,
@@ -3595,6 +3607,7 @@
     "url": "{HTML_URL}/451.html",
     "author": "Parsec Productions",
     "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096"
+    "featured": true
   },
   {
     "id": 452,
@@ -3659,6 +3672,7 @@
     "url": "{HTML_URL}/459.html",
     "author": "Zed Technician",
     "authorLink": "https://zed-technician.itch.io/the-man-from-the-window"
+    "featured": true
   },
   {
     "id": 460,
@@ -3667,6 +3681,7 @@
     "url": "{HTML_URL}/460.html",
     "author": "Rayll",
     "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone"
+    "featured": true
   },
   {
     "id": 461,
@@ -3707,7 +3722,7 @@
     "url": "{HTML_URL}/465.html",
     "author": "Studio MDHR Entertainment Inc",
     "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
-    "featured": true
+    
   },
   {
     "id": 466,
@@ -3724,7 +3739,7 @@
     "url": "{HTML_URL}/467.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics-plus",
-    "featured": true
+    
   },
   {
     "id": 468,
@@ -3733,7 +3748,7 @@
     "url": "{HTML_URL}/468-a.html",
     "author": "Team Cherry",
     "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
-    "featured": true
+    
   },
   {
     "id": 469,
@@ -4114,6 +4129,7 @@
     "url": "{HTML_URL}/515.html",
     "author": "BerickCook",
     "authorLink": "https://berickcook.itch.io/pacman"
+    "featured": true
   },
   {
     "id": 516,
@@ -4330,7 +4346,7 @@
     "url": "{HTML_URL}/542-a.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
-    "featured": true
+    
   },
   {
     "id": 543,
