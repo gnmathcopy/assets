@@ -524,7 +524,7 @@
     "url": "{HTML_URL}/64.html",
     "author": "",
     "authorLink": ""
-    "featured": true
+    "featured": true,
   },
   {
     "id": 65,
@@ -533,7 +533,7 @@
     "url": "{HTML_URL}/65.html",
     "author": "",
     "authorLink": ""
-    "featured": true
+    "featured": true,
   },
   {
     "id": 66,
@@ -734,7 +734,7 @@
     "url": "{HTML_URL}/90.html",
     "author": "",
     "authorLink": ""
-    "featured": true
+    "featured": true,
   },
   {
     "id": 91,
@@ -807,7 +807,7 @@
     "url": "{HTML_URL}/99.html",
     "author": "",
     "authorLink": ""
-    "featured": true
+    "featured": true,
   },
   {
     "id": 100,
@@ -1008,7 +1008,7 @@
     "url": "{HTML_URL}/125.html",
     "author": "",
     "authorLink": ""
-    "featured": true
+    "featured": true,
   },
   {
     "id": 126,
@@ -1017,7 +1017,7 @@
     "url": "{HTML_URL}/126.html",
     "author": "",
     "authorLink": ""
-    "featured": true
+    "featured": true,
   },
   {
     "id": 127,
@@ -1720,7 +1720,7 @@
     "url": "{HTML_URL}/215.html",
     "author": "Joey Drew Studios",
     "authorLink": "https://www.joeydrewstudios.com/batim",
-    "featured": true
+    "featured": true,
   },
   {
     "id": 216,
@@ -1729,7 +1729,7 @@
     "url": "{HTML_URL}/216.html",
     "author": "Nacho Games",
     "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
-    "featured": true
+    "featured": true,
     
   },
   {
@@ -2061,7 +2061,7 @@
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
     "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 259,
@@ -2789,7 +2789,7 @@
     "url": "{HTML_URL}/348.html",
     "author": "OnHit Developments",
     "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 349,
@@ -3407,7 +3407,7 @@
     "url": "{HTML_URL}/427-z.html",
     "author": "Omocat",
     "authorLink": "https://omocat.com",
-    "featured": true
+    "featured": true,
     
   },
   {
@@ -3417,7 +3417,7 @@
     "url": "{HTML_URL}/428.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 429,
@@ -3450,7 +3450,7 @@
     "url": "{HTML_URL}/432.html",
     "author": "krutovig",
     "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 433,
@@ -3459,7 +3459,7 @@
     "url": "{HTML_URL}/433.html",
     "author": "kikiyama",
     "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
-    "featured": true
+    "featured": true,
   },
   {
     "id": 434,
@@ -3598,7 +3598,7 @@
     "url": "{HTML_URL}/450.html",
     "author": "MANGLEDmaw Games, DreadXP",
     "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 451,
@@ -3607,7 +3607,7 @@
     "url": "{HTML_URL}/451.html",
     "author": "Parsec Productions",
     "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 452,
@@ -3672,7 +3672,7 @@
     "url": "{HTML_URL}/459.html",
     "author": "Zed Technician",
     "authorLink": "https://zed-technician.itch.io/the-man-from-the-window"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 460,
@@ -3681,7 +3681,7 @@
     "url": "{HTML_URL}/460.html",
     "author": "Rayll",
     "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 461,
@@ -4045,7 +4045,7 @@
     "url": "{HTML_URL}/505.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "emulator": true
+    "emulator": true,
   },
   {
     "id": 506,
@@ -4054,7 +4054,7 @@
     "url": "{HTML_URL}/506.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "emulator": true
+    "emulator": true,
   },
   {
     "id": 507,
@@ -4071,7 +4071,7 @@
     "url": "{HTML_URL}/508.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "emulator": true
+    "emulator": true,
   },
   {
     "id": 509,
@@ -4088,7 +4088,7 @@
     "url": "{HTML_URL}/510.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "emulator": true
+    "emulator": true,
   },
   {
     "id": 511,
@@ -4129,7 +4129,7 @@
     "url": "{HTML_URL}/515.html",
     "author": "BerickCook",
     "authorLink": "https://berickcook.itch.io/pacman"
-    "featured": true
+    "featured": true,
   },
   {
     "id": 516,
