@@ -517,15 +517,15 @@
     "author": "",
     "authorLink": ""
   },
-  {
-    "id": 64,
-    "name": "Backrooms",
-    "cover": "{COVER_URL}/64.png",
-    "url": "{HTML_URL}/64.html",
-    "author": "",
-    "authorLink": "",
-    "featured": true,
-  },
+{
+  "id": 64,
+  "name": "Backrooms",
+  "cover": "{COVER_URL}/64.png",
+  "url": "{HTML_URL}/64.html",
+  "author": "",
+  "authorLink": "",
+  "featured": true
+},
   {
     "id": 65,
     "name": "Baldi's Basics",
