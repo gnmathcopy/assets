@@ -517,8 +517,7 @@
   "cover": "{COVER_URL}/64.png",
   "url": "{HTML_URL}/64.html",
   "author": "",
-  "authorLink": "",
-  "featured": true
+  "authorLink": ""
 },
   {
     "id": 65,
@@ -526,8 +525,7 @@
     "cover": "{COVER_URL}/65.png",
     "url": "{HTML_URL}/65.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 66,
@@ -727,8 +725,7 @@
     "cover": "{COVER_URL}/90.png",
     "url": "{HTML_URL}/90.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 91,
@@ -800,8 +797,7 @@
     "cover": "{COVER_URL}/99.png",
     "url": "{HTML_URL}/99.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 100,
@@ -1001,8 +997,7 @@
     "cover": "{COVER_URL}/125.png",
     "url": "{HTML_URL}/125.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 126,
@@ -1010,8 +1005,7 @@
     "cover": "{COVER_URL}/126.png",
     "url": "{HTML_URL}/126.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 127,
@@ -1460,8 +1454,8 @@
     "cover": "{COVER_URL}/182.png",
     "url": "{HTML_URL}/182.html",
     "author": "lax1dude",
-    "authorLink": "https://eaglercraft.com"
-    
+    "authorLink": "https://eaglercraft.com",
+    "featured": true
   },
   {
     "id": 183,
@@ -1713,8 +1707,7 @@
     "cover": "{COVER_URL}/215.png",
     "url": "{HTML_URL}/215.html",
     "author": "Joey Drew Studios",
-    "authorLink": "https://www.joeydrewstudios.com/batim",
-    "featured": true
+    "authorLink": "https://www.joeydrewstudios.com/batim"
   },
   {
     "id": 216,
@@ -1722,8 +1715,7 @@
     "cover": "{COVER_URL}/216.png",
     "url": "{HTML_URL}/216.html",
     "author": "Nacho Games",
-    "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
-    "featured": true
+    "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/"
     
   },
   {
@@ -2054,8 +2046,7 @@
     "cover": "{COVER_URL}/258.png",
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
-    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys",
-    "featured": true
+    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys"
   },
   {
     "id": 259,
@@ -2782,8 +2773,7 @@
     "cover": "{COVER_URL}/348.png",
     "url": "{HTML_URL}/348.html",
     "author": "OnHit Developments",
-    "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming",
-    "featured": true
+    "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming"
   },
   {
     "id": 349,
@@ -3400,9 +3390,7 @@
     "cover": "{COVER_URL}/427.png",
     "url": "{HTML_URL}/427-z.html",
     "author": "Omocat",
-    "authorLink": "https://omocat.com",
-    "featured": true
-    
+    "authorLink": "https://omocat.com"
   },
   {
     "id": 428,
@@ -3410,8 +3398,7 @@
     "cover": "{COVER_URL}/428.png",
     "url": "{HTML_URL}/428.html",
     "author": "Scott Cawthon",
-    "authorLink": "https://scottgames.com",
-    "featured": true
+    "authorLink": "https://scottgames.com"
   },
   {
     "id": 429,
@@ -3443,8 +3430,7 @@
     "cover": "{COVER_URL}/432.png",
     "url": "{HTML_URL}/432.html",
     "author": "krutovig",
-    "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned",
-    "featured": true
+    "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned"
   },
   {
     "id": 433,
@@ -3452,8 +3438,7 @@
     "cover": "{COVER_URL}/433.png",
     "url": "{HTML_URL}/433.html",
     "author": "kikiyama",
-    "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
-    "featured": true
+    "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/"
   },
   {
     "id": 434,
@@ -3591,8 +3576,7 @@
     "cover": "{COVER_URL}/450.png",
     "url": "{HTML_URL}/450.html",
     "author": "MANGLEDmaw Games, DreadXP",
-    "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer",
-    "featured": true
+    "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer"
   },
   {
     "id": 451,
@@ -3600,8 +3584,7 @@
     "cover": "{COVER_URL}/451.png",
     "url": "{HTML_URL}/451.html",
     "author": "Parsec Productions",
-    "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096",
-    "featured": true
+    "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096"
   },
   {
     "id": 452,
@@ -3665,8 +3648,7 @@
     "cover": "{COVER_URL}/459.png",
     "url": "{HTML_URL}/459.html",
     "author": "Zed Technician",
-    "authorLink": "https://zed-technician.itch.io/the-man-from-the-window",
-    "featured": true
+    "authorLink": "https://zed-technician.itch.io/the-man-from-the-window"
   },
   {
     "id": 460,
@@ -3674,8 +3656,7 @@
     "cover": "{COVER_URL}/460.png",
     "url": "{HTML_URL}/460.html",
     "author": "Rayll",
-    "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone",
-    "featured": true
+    "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone"
   },
   {
     "id": 461,
@@ -4122,8 +4103,7 @@
     "cover": "{COVER_URL}/515.png",
     "url": "{HTML_URL}/515.html",
     "author": "BerickCook",
-    "authorLink": "https://berickcook.itch.io/pacman",
-    "featured": true
+    "authorLink": "https://berickcook.itch.io/pacman"
   },
   {
     "id": 516,
@@ -4508,8 +4488,7 @@
     "cover": "{COVER_URL}/563.jpg",
     "url": "{HTML_URL}/563.html",
     "author": "idk",
-    "authorLink": "no", 
-    "featured": true
+    "authorLink": "no"
   },
   {
     "id": 565,
@@ -4517,8 +4496,7 @@
     "cover": "{COVER_URL}/565.jpg",
     "url": "{HTML_URL}/565.html",
     "author": "idk",
-    "authorLink": "no", 
-    "featured": true
+    "authorLink": "no"
   },
   {
     "id": 565,
@@ -4526,7 +4504,6 @@
     "cover": "{COVER_URL}/566.jpg",
     "url": "{HTML_URL}/566.html",
     "author": "idk",
-    "authorLink": "no", 
-    "featured": true
+    "authorLink": "no"
   }
 ]
