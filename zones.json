@@ -1,6 +1,6 @@
 [
   {
-    "id": -1,
+    "id": 1,
     "name": "Bowmasters",
     "cover": "{COVER_URL}/0.png",
     "url": "{HTML_URL}/0.html",
@@ -69,7 +69,8 @@
     "cover": "{COVER_URL}/8.png",
     "url": "{HTML_URL}/8-a.html",
     "author": "ninja-muffin24",
-    "authorLink": "https://ninja-muffin24.itch.io/funkin"
+    "authorLink": "https://ninja-muffin24.itch.io/funkin",
+    "featured": true
   },
   {
     "id": 9,
@@ -221,7 +222,8 @@
     "cover": "{COVER_URL}/27.png",
     "url": "{HTML_URL}/27.html",
     "author": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
-    "authorLink": "RobTop Games"
+    "authorLink": "RobTop Games",
+    "featured": true
   },
   {
     "id": 28,
@@ -269,7 +271,8 @@
     "cover": "{COVER_URL}/33.png",
     "url": "{HTML_URL}/33.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 34,
@@ -285,7 +288,8 @@
     "cover": "{COVER_URL}/35.png",
     "url": "{HTML_URL}/35.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 36,
@@ -309,7 +313,8 @@
     "cover": "{COVER_URL}/38.png",
     "url": "{HTML_URL}/38.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 39,
@@ -429,7 +434,8 @@
     "cover": "{COVER_URL}/53.png",
     "url": "{HTML_URL}/53.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 54,
@@ -461,7 +467,8 @@
     "cover": "{COVER_URL}/57.png",
     "url": "{HTML_URL}/57.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 58,
@@ -605,7 +612,8 @@
     "cover": "{COVER_URL}/75.png",
     "url": "{HTML_URL}/75.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 76,
@@ -661,7 +669,8 @@
     "cover": "{COVER_URL}/82.png",
     "url": "{HTML_URL}/82-aa.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 83,
@@ -725,7 +734,8 @@
     "cover": "{COVER_URL}/90.png",
     "url": "{HTML_URL}/90.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 91,
@@ -1117,7 +1127,8 @@
     "cover": "{COVER_URL}/140.png",
     "url": "{HTML_URL}/140.html",
     "author": "SYBO",
-    "authorLink": "https://sybogames.com"
+    "authorLink": "https://sybogames.com",
+    "featured": true
   },
   {
     "id": 141,
@@ -1389,7 +1400,8 @@
     "cover": "{COVER_URL}/174.png",
     "url": "{HTML_URL}/174.html",
     "author": "Kendja",
-    "authorLink": "https://www.newgrounds.com/portal/view/603435"
+    "authorLink": "https://www.newgrounds.com/portal/view/603435",
+    "featured": true
   },
   {
     "id": 175,
@@ -1570,7 +1582,8 @@
     "cover": "{COVER_URL}/198.png",
     "url": "{HTML_URL}/198.html",
     "author": "coweggs",
-    "authorLink": "https://coweggs.itch.io/slope-plus"
+    "authorLink": "https://coweggs.itch.io/slope-plus",
+    "featured": true
   },
   {
     "id": 199,
@@ -1805,7 +1818,8 @@
     "cover": "{COVER_URL}/227.png",
     "url": "{HTML_URL}/227.html",
     "author": "Flipline Studios",
-    "authorLink": "https://www.flipline.com"
+    "authorLink": "https://www.flipline.com",
+    "featured": true
   },
   {
     "id": 228,
@@ -2220,7 +2234,8 @@
     "cover": "{COVER_URL}/279.png",
     "url": "{HTML_URL}/279.html",
     "author": "Madalin Games",
-    "authorLink": "https://www.madalingames.com"
+    "authorLink": "https://www.madalingames.com",
+    "featured": true
   },
   {
     "id": 280,
@@ -2701,7 +2716,8 @@
     "cover": "{COVER_URL}/339.png",
     "url": "{HTML_URL}/339.html",
     "author": "New Eich Games",
-    "authorLink": "https://www.neweichgames.com"
+    "authorLink": "https://www.neweichgames.com",
+    "featured": true
   },
   {
     "id": 340,
@@ -3624,7 +3640,8 @@
     "cover": "{COVER_URL}/456.png",
     "url": "{HTML_URL}/456.html",
     "author": "Team Undertale Yellow",
-    "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925"
+    "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925",
+    "featured": true
   },
   {
     "id": 457,
@@ -3696,8 +3713,8 @@
     "cover": "{COVER_URL}/465.png",
     "url": "{HTML_URL}/465.html",
     "author": "Studio MDHR Entertainment Inc",
-    "authorLink": "https://store.steampowered.com/app/268910/Cuphead"
-    
+    "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
+    "featured": true
   },
   {
     "id": 466,
@@ -3705,7 +3722,8 @@
     "cover": "{COVER_URL}/466.png",
     "url": "{HTML_URL}/466.html",
     "author": "Basically Games",
-    "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered"
+    "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered",
+    "featured": true
   },
   {
     "id": 467,
