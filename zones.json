@@ -4540,5 +4540,417 @@
     "author": "idk",
     "authorLink": "no",
     "featured": true
-  }
+  },
+  {
+  "id": 571,
+  "name": "Layers Roll",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/571.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/571.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 572,
+  "name": "Lazy Jumper",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/572.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/572.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 573,
+  "name": "Man Runner 2048",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/573.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/573.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 574,
+  "name": "Pottery Master",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/574.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/574.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 575,
+  "name": "Shovel 3D",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/575.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/575.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 576,
+  "name": "Sky Riders",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/576.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/576.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 577,
+  "name": "Steal Brainrot Online",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/577.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/577.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 578,
+  "name": "Stickman and Guns",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/578.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/578.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 579,
+  "name": "Super Star Car",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/579.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/579.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 580,
+  "name": "Traffic Rider",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/580.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/580.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 581,
+  "name": "BuildNow.gg",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/581.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/581.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 582,
+  "name": "Friday Night Funkin': Mario's Madness",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/582.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/582.html",
+  "author": "Dewott2501 etc",
+  "authorLink": "https://gamebanana.com/mods/359554"
+},
+{
+  "id": 583,
+  "name": "Friday Night Funkin' vs Hypno Lullaby",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/583.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/583.html",
+  "author": "Hypno Lullaby Team",
+  "authorLink": "https://gamejolt.com/games/hypnos-lullabyv2cancelled/758792"
+},
+{
+  "id": 584,
+  "name": "Stone Grass Mowing Simulator",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/584-a.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/584.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 585,
+  "name": "Fallout",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/585.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/585.html",
+  "author": "Bethesda Softworks",
+  "authorLink": "https://bethesda.net/en/dashboard",
+  "special": ["port"]
+},
+{
+  "id": 586,
+  "name": "The Oregon Trail",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/586.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/586.html",
+  "author": "MECC",
+  "authorLink": "https://archive.org/details/msdos_Oregon_Trail_The_1990"
+},
+{
+  "id": 587,
+  "name": "Newgrounds Rumble",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/587.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/587.html",
+  "author": "NegativeONE, Luis, MindChamber",
+  "authorLink": "https://www.newgrounds.com/portal/view/381115",
+  "special": ["flash"]
+},
+{
+  "id": 588,
+  "name": "Super Mario 64",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/588.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/588.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": ["port"]
+},
+{
+  "id": 589,
+  "name": "Sonic CD",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/589.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/589.html",
+  "author": "SEGA",
+  "authorLink": "https://sega.com",
+  "special": ["port"]
+},
+{
+  "id": 590,
+  "name": "Sonic Mania",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/590.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/590.html",
+  "author": "SEGA",
+  "authorLink": "https://sega.com",
+  "special": ["port"]
+},
+{
+  "id": 591,
+  "name": "Slime Rancher",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/591.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/591-a.html",
+  "author": "Monomi Park, Ported by Snubby.top",
+  "authorLink": "https://monomipark.com/",
+  "special": ["port"]
+},
+{
+  "id": 592,
+  "name": "Pac Man World",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/592.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/592.html",
+  "author": "Full Fat Games",
+  "authorLink": "https://www.full-fat.com/",
+  "special": ["emulator"]
+},
+{
+  "id": 593,
+  "name": "Pac Man World 2",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/593.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/593.html",
+  "author": "Full Fat Games",
+  "authorLink": "https://www.full-fat.com/",
+  "special": ["emulator"]
+},
+{
+  "id": 594,
+  "name": "Waterworks!",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/594.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/594.html",
+  "author": "scriptwelder",
+  "authorLink": "https://scriptwelder.itch.io/waterworks"
+},
+{
+  "id": 595,
+  "name": "Shapez.io",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/595.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/595.html",
+  "author": "scriptwelder",
+  "authorLink": "https://scriptwelder.itch.io/waterworks"
+},
+{
+  "id": 596,
+  "name": "[!] COMMENTS",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/596-uu.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/596-u.html",
+  "author": "gn-math",
+  "authorLink": "https://gn-math.github.io",
+  "featured": true,
+  "special": ["tools"]
+},
+{
+  "id": 597,
+  "name": "Plants vs. Zombies 2 Gardenless",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/597.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/597.html",
+  "author": "Gzh0821",
+  "authorLink": "https://pvzge.com/en/"
+},
+{
+  "id": 598,
+  "name": "Sonic.EXE",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/598.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/598.html",
+  "author": "Cinossu",
+  "authorLink": "https://info.sonicretro.org/An_Ordinary_Sonic_ROM_Hack",
+  "special": ["emulator"]
+},
+{
+  "id": 599,
+  "name": "Metal Gear Solid",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/599.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/599.html",
+  "author": "Konami Computer Entertainment Japan",
+  "authorLink": "https://www.konami.com/",
+  "special": ["emulator"]
+},
+{
+  "id": 600,
+  "name": "FNF Vs. Hypno's Lullaby v2",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/600.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/600.html",
+  "author": "Hypno's Lullaby Team",
+  "authorLink": "https://gamebanana.com/wips/73522",
+  "special": ["fnf"]
+},
+{
+  "id": 601,
+  "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/601.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/601.html",
+  "author": "FNF Vs. Sonic.EXE Team",
+  "authorLink": "https://gamebanana.com/mods/531361",
+  "special": ["fnf"]
+},
+{
+  "id": 602,
+  "name": "Doom 2",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/602.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/602.html",
+  "author": "id Software",
+  "authorLink": "https://www.idsoftware.com/",
+  "special": ["emulator"]
+},
+{
+  "id": 603,
+  "name": "Growden.io",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/603.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/603-aa.html",
+  "author": "growden.io",
+  "authorLink": "https://growden.io/"
+},
+{
+  "id": 604,
+  "name": "Minesweeper Plus",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/604.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/604.html",
+  "author": "Jorel Simpson",
+  "authorLink": "https://jorel-simpson.itch.io/minesweeper-plus",
+  "special": ["port"]
+},
+{
+  "id": 605,
+  "name": "Schoolboy Runaway",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/605.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/605-e.html",
+  "author": "Linked Squad",
+  "authorLink": "https://linked-squad.com/",
+  "special": ["port"]
+},
+{
+  "id": 606,
+  "name": "Sonic.EXE (ORIGINAL)",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/606.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/606-e.html",
+  "author": "MY5TCrimson",
+  "authorLink": "https://gamejolt.com/games/sonic-exe-the-game/16239",
+  "special": ["port"]
+},
+{
+  "id": 607,
+  "name": "Tattletail",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/607.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/607-e.html",
+  "author": "Waygetter Electronics, Ported by Snubby.top",
+  "authorLink": "https://store.steampowered.com/app/568090/Tattletail/",
+  "special": ["port"]
+},
+{
+  "id": 608,
+  "name": "Friday Night Funkin VS Impostor v4",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/608.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/608.html",
+  "author": "Imposter v4 team",
+  "authorLink": "https://gamebanana.com/mods/55652",
+  "special": ["fnf"]
+},
+{
+  "id": 609,
+  "name": "Friday Night Funkin vs Sunday Remastered HD",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/609.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/609-a.html",
+  "author": "Sunday Remastered team",
+  "authorLink": "https://gamebanana.com/mods/323254",
+  "special": ["fnf"]
+},
+{
+  "id": 610,
+  "name": "Friday Night Funkin vs Carol V2",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/610.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/610.html",
+  "author": "Carol V2 team",
+  "authorLink": "https://gamebanana.com/mods/42811",
+  "special": ["fnf"]
+},
+{
+  "id": 611,
+  "name": "The Legend of Zelda Ocarina of Time",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/611.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/611.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": ["emulator", "n64"]
+},
+{
+  "id": 612,
+  "name": "The Legend of Zelda Majora's Mask",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/612.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/612.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": ["emulator", "n64"]
+},
+{
+  "id": 613,
+  "name": "Friday Night Funkin' Drop and Roll, but Playable",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/613.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/613.html",
+  "author": "Drop and roll team",
+  "authorLink": "https://gamebanana.com/mods/514851",
+  "special": ["fnf"]
+},
+{
+  "id": 614,
+  "name": "Toy Rider",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/614.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/614.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/"
+},
+{
+  "id": 615,
+  "name": "Friday Night Funkin Vs. Dave and Bambi v3",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/615.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/615.html-a",
+  "author": "Dave and Bambi team",
+  "authorLink": "https://gamebanana.com/mods/43201",
+  "special": ["fnf"]
+},
+{
+  "id": 616,
+  "name": "Friday Night Funkin’ Wednesday's Infidelity",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/616.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/616.html",
+  "author": "Wednesday's Infidelity team",
+  "authorLink": "https://gamebanana.com/mods/343688",
+  "special": ["fnf"]
+},
+{
+  "id": 617,
+  "name": "Postal",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/617.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/617-a.html",
+  "author": "Stinkalistic, Running With Scissors",
+  "authorLink": "https://runningwithscissors.com/"
+},
+{
+  "id": 618,
+  "name": "FNF vs Bob v2.0 (Bob’s Onslaught)",
+  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/618.png",
+  "url": "https://raw.githubusercontent.com/gn-math/html/main/618.html",
+  "author": "bob v2.0 team",
+  "authorLink": "https://gamebanana.com/mods/621085",
+  "special": ["fnf"]
+}
 ]
