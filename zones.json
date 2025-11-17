@@ -4540,45 +4540,5 @@
     "author": "idk",
     "authorLink": "no",
     "featured": true
-  },
- {
-  "id": 571,
-  "name": "Layers Roll",
-  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/571.png",
-  "url": "https://gn-math.github.io/html/571.html",
-  "author": "CrazyGames",
-  "authorLink": "https://www.crazygames.com/"
-},
-{
-  "id": 572,
-  "name": "Lazy Jumper",
-  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/572.png",
-  "url": "https://gn-math.github.io/html/572.html",
-  "author": "CrazyGames",
-  "authorLink": "https://www.crazygames.com/"
-},
-{
-  "id": 573,
-  "name": "Man Runner 2048",
-  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/573.png",
-  "url": "https://gn-math.github.io/html/573.html",
-  "author": "CrazyGames",
-  "authorLink": "https://www.crazygames.com/"
-},
-{
-  "id": 574,
-  "name": "Pottery Master",
-  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/574.png",
-  "url": "https://gn-math.github.io/html/574.html",
-  "author": "CrazyGames",
-  "authorLink": "https://www.crazygames.com/"
-},
-{
-  "id": 575,
-  "name": "Shovel 3D",
-  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/575.png",
-  "url": "https://gn-math.github.io/html/575.html",
-  "author": "CrazyGames",
-  "authorLink": "https://www.crazygames.com/"
-}
+  }
 ]
