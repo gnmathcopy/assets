@@ -4549,5 +4549,23 @@
     "author": "idk",
     "authorLink": "no",
     "featured": true
+  },
+  {
+    "id": 572,
+    "name": "Super Mario 64",
+    "cover": "{COVER_URL}/572.png",
+    "url": "{HTML_URL}/572.html",
+    "author": "idk",
+    "authorLink": "no",
+    "featured": true
+  },
+  {
+    "id": 573,
+    "name": "Zelda: Majora's Mask",
+    "cover": "{COVER_URL}/573.png",
+    "url": "{HTML_URL}/573.html",
+    "author": "idk",
+    "authorLink": "no",
+    "featured": true
   }
 ]
