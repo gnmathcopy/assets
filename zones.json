@@ -4540,5 +4540,14 @@
     "author": "idk",
     "authorLink": "no",
     "featured": true
+  },
+  {
+    "id": 571,
+    "name": "Zelda: Ocarina of Time",
+    "cover": "{COVER_URL}/571.png",
+    "url": "{HTML_URL}/571.html",
+    "author": "idk",
+    "authorLink": "no",
+    "featured": true
   }
 ]
