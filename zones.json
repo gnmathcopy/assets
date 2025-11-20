@@ -4555,5 +4555,14 @@
         "author": "idk",
         "authorLink": "no",
         "featured": true
+    },
+    {
+        "id": 575,
+        "name": "BuildNow.gg",
+        "cover": "{COVER_URL}/575.png",
+        "url": "{HTML_URL}/575.html",
+        "author": "idk",
+        "authorLink": "no",
+        "featured": true
     }
 ]
