@@ -4564,5 +4564,14 @@
         "author": "idk",
         "authorLink": "no",
         "featured": true
+    },
+    {
+        "id": 578,
+        "name": "Bike Trials Winter 1",
+        "cover": "{COVER_URL}/578.png",
+        "url": "{HTML_URL}/578.html",
+        "author": "idk",
+        "authorLink": "no",
+        "featured": true
     }
 ]
