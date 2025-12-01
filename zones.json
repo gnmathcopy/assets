@@ -4555,5 +4555,14 @@
         "author": "idk",
         "authorLink": "no",
         "featured": true
+    },
+    {
+        "id": 577,
+        "name": "Super Santa Kicker",
+        "cover": "{COVER_URL}/577.png",
+        "url": "{HTML_URL}/577.html",
+        "author": "idk",
+        "authorLink": "no",
+        "featured": true
     }
 ]
