@@ -4566,19 +4566,19 @@
         "featured": true
     },
     {
-       "id": 578,
+       "id": 580,
         "name": "Bike Trials Winter 1",
-        "cover": "{COVER_URL}/578.png",
-        "url": "{HTML_URL}/578.html",
+        "cover": "{COVER_URL}/580.png",
+        "url": "{HTML_URL}/580.html",
         "author": "idk",
         "authorLink": "no",
         "featured": true
     }, 
     {
-       "id": 579,
+       "id": 581,
         "name": "Bike Trials Winter 2",
-        "cover": "{COVER_URL}/579.png",
-        "url": "{HTML_URL}/579.html",
+        "cover": "{COVER_URL}/581.png",
+        "url": "{HTML_URL}/581.html",
         "author": "idk",
         "authorLink": "no",
         "featured": true
