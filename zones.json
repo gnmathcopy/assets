@@ -45,7 +45,8 @@
         "cover": "{COVER_URL}/5.png",
         "url": "{HTML_URL}/5.html",
         "author": "Onionfist Studio",
-        "authorLink": "https://onionfist.com"
+        "authorLink": "https://onionfist.com",
+        "featured": true
     },
     {
         "id": 6,
@@ -69,8 +70,7 @@
         "cover": "{COVER_URL}/8.png",
         "url": "{HTML_URL}/8-a.html",
         "author": "ninja-muffin24",
-        "authorLink": "https://ninja-muffin24.itch.io/funkin",
-        "featured": true
+        "authorLink": "https://ninja-muffin24.itch.io/funkin"
     },
     {
         "id": 9,
@@ -222,8 +222,7 @@
         "cover": "{COVER_URL}/27.png",
         "url": "{HTML_URL}/27.html",
         "author": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
-        "authorLink": "RobTop Games",
-        "featured": true
+        "authorLink": "RobTop Games"
     },
     {
         "id": 28,
@@ -271,8 +270,7 @@
         "cover": "{COVER_URL}/33.png",
         "url": "{HTML_URL}/33.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 34,
@@ -288,8 +286,7 @@
         "cover": "{COVER_URL}/35.png",
         "url": "{HTML_URL}/35.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 36,
@@ -313,8 +310,7 @@
         "cover": "{COVER_URL}/38.png",
         "url": "{HTML_URL}/38.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 39,
@@ -394,7 +390,8 @@
         "cover": "{COVER_URL}/48.png",
         "url": "{HTML_URL}/48.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 49,
@@ -434,8 +431,7 @@
         "cover": "{COVER_URL}/53.png",
         "url": "{HTML_URL}/53.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 54,
@@ -467,8 +463,7 @@
         "cover": "{COVER_URL}/57.png",
         "url": "{HTML_URL}/57.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 58,
@@ -564,7 +559,8 @@
         "cover": "{COVER_URL}/69.png",
         "url": "{HTML_URL}/69.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 70,
@@ -612,8 +608,7 @@
         "cover": "{COVER_URL}/75.png",
         "url": "{HTML_URL}/75.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 76,
@@ -669,8 +664,7 @@
         "cover": "{COVER_URL}/82.png",
         "url": "{HTML_URL}/82-aa.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 83,
@@ -734,8 +728,7 @@
         "cover": "{COVER_URL}/90.png",
         "url": "{HTML_URL}/90.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 91,
@@ -815,7 +808,8 @@
         "cover": "{COVER_URL}/100.png",
         "url": "{HTML_URL}/100.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 101,
@@ -967,7 +961,8 @@
         "cover": "{COVER_URL}/119.png",
         "url": "{HTML_URL}/119.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 120,
@@ -1127,8 +1122,7 @@
         "cover": "{COVER_URL}/140.png",
         "url": "{HTML_URL}/140.html",
         "author": "SYBO",
-        "authorLink": "https://sybogames.com",
-        "featured": true
+        "authorLink": "https://sybogames.com"
     },
     {
         "id": 141,
@@ -1400,8 +1394,7 @@
         "cover": "{COVER_URL}/174.png",
         "url": "{HTML_URL}/174.html",
         "author": "Kendja",
-        "authorLink": "https://www.newgrounds.com/portal/view/603435",
-        "featured": true
+        "authorLink": "https://www.newgrounds.com/portal/view/603435"
     },
     {
         "id": 175,
@@ -1465,8 +1458,7 @@
         "cover": "{COVER_URL}/182.png",
         "url": "{HTML_URL}/182.html",
         "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com",
-        "featured": true
+        "authorLink": "https://eaglercraft.com"
     },
     {
         "id": 183,
@@ -1578,8 +1570,7 @@
         "cover": "{COVER_URL}/198.png",
         "url": "{HTML_URL}/198.html",
         "author": "coweggs",
-        "authorLink": "https://coweggs.itch.io/slope-plus",
-        "featured": true
+        "authorLink": "https://coweggs.itch.io/slope-plus"
     },
     {
         "id": 199,
@@ -1651,7 +1642,8 @@
         "cover": "{COVER_URL}/207.png",
         "url": "{HTML_URL}/207.html",
         "author": "Royalec/Tokyo",
-        "authorLink": "https://google.com/search?q=Tokyo+Royalec"
+        "authorLink": "https://google.com/search?q=Tokyo+Royalec",
+        "featured": true
     },
     {
         "id": 208,
@@ -1707,7 +1699,8 @@
         "cover": "{COVER_URL}/214.png",
         "url": "{HTML_URL}/214.html",
         "author": "ZeptoLab",
-        "authorLink": "https://www.zeptolab.com"
+        "authorLink": "https://www.zeptolab.com",
+        "featured": true
     },
     {
         "id": 215,
@@ -1811,8 +1804,7 @@
         "cover": "{COVER_URL}/227.png",
         "url": "{HTML_URL}/227.html",
         "author": "Flipline Studios",
-        "authorLink": "https://www.flipline.com",
-        "featured": true
+        "authorLink": "https://www.flipline.com"
     },
     {
         "id": 228,
@@ -2220,8 +2212,7 @@
         "cover": "{COVER_URL}/279.png",
         "url": "{HTML_URL}/279.html",
         "author": "Madalin Games",
-        "authorLink": "https://www.madalingames.com",
-        "featured": true
+        "authorLink": "https://www.madalingames.com"
     },
     {
         "id": 280,
@@ -2701,8 +2692,7 @@
         "cover": "{COVER_URL}/339.png",
         "url": "{HTML_URL}/339.html",
         "author": "New Eich Games",
-        "authorLink": "https://www.neweichgames.com",
-        "featured": true
+        "authorLink": "https://www.neweichgames.com"
     },
     {
         "id": 340,
@@ -3470,7 +3460,8 @@
         "cover": "{COVER_URL}/437.png",
         "url": "{HTML_URL}/437.html",
         "author": "Azur Games, Playgendary",
-        "authorLink": "https://azurgames.com"
+        "authorLink": "https://azurgames.com",
+        "featured": true
     },
     {
         "id": 438,
@@ -3622,8 +3613,7 @@
         "cover": "{COVER_URL}/456.png",
         "url": "{HTML_URL}/456.html",
         "author": "Team Undertale Yellow",
-        "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925",
-        "featured": true
+        "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925"
     },
     {
         "id": 457,
@@ -3695,8 +3685,7 @@
         "cover": "{COVER_URL}/465.png",
         "url": "{HTML_URL}/465.html",
         "author": "Studio MDHR Entertainment Inc",
-        "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
-        "featured": true
+        "authorLink": "https://store.steampowered.com/app/268910/Cuphead"
     },
     {
         "id": 466,
@@ -3704,8 +3693,7 @@
         "cover": "{COVER_URL}/466.png",
         "url": "{HTML_URL}/466.html",
         "author": "Basically Games",
-        "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered",
-        "featured": true
+        "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered"
     },
     {
         "id": 467,
@@ -4517,8 +4505,7 @@
         "cover": "{COVER_URL}/570.png",
         "url": "{HTML_URL}/570.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
         "id": 571,
@@ -4526,8 +4513,7 @@
         "cover": "{COVER_URL}/571.png",
         "url": "{HTML_URL}/571.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
         "id": 572,
@@ -4535,8 +4521,7 @@
         "cover": "{COVER_URL}/572.png",
         "url": "{HTML_URL}/572.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
         "id": 573,
@@ -4544,8 +4529,7 @@
         "cover": "{COVER_URL}/573.png",
         "url": "{HTML_URL}/573.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
         "id": 574,
@@ -4553,8 +4537,7 @@
         "cover": "{COVER_URL}/574.png",
         "url": "{HTML_URL}/574.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
         "id": 575,
@@ -4562,7 +4545,6 @@
         "cover": "{COVER_URL}/575.png",
         "url": "{HTML_URL}/575.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     }
 ]
