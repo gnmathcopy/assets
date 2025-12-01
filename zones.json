@@ -4546,5 +4546,14 @@
         "url": "{HTML_URL}/575.html",
         "author": "idk",
         "authorLink": "no"
+    },
+    {
+        "id": 576,
+        "name": "Thumb Fighter Christmas",
+        "cover": "{COVER_URL}/576.png",
+        "url": "{HTML_URL}/576.html",
+        "author": "idk",
+        "authorLink": "no",
+        "featured": true
     }
 ]
