@@ -4582,14 +4582,5 @@
         "author": "idk",
         "authorLink": "no",
         "featured": true
-    },
-    {
-  "id": 582,
-  "name": "Newgrounds Rumble",
-  "cover": "https://raw.githubusercontent.com/gn-math/covers/main/587.png",
-  "url": "https://raw.githubusercontent.com/gn-math/html/main/587.html",
-  "author": "NegativeONE, Luis, MindChamber",
-  "authorLink": "https://www.newgrounds.com/portal/view/381115"
-}
-
+    }
 ]
