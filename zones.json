@@ -45,8 +45,7 @@
         "cover": "{COVER_URL}/5.png",
         "url": "{HTML_URL}/5.html",
         "author": "Onionfist Studio",
-        "authorLink": "https://onionfist.com",
-        "featured": true
+        "authorLink": "https://onionfist.com"
     },
     {
         "id": 6,
@@ -214,7 +213,8 @@
         "cover": "{COVER_URL}/26.png",
         "url": "{HTML_URL}/26.html",
         "author": "CrazyLabs",
-        "authorLink": "https://play.google.com/store/apps/details?id=com.crazylabs.amaze.game"
+        "authorLink": "https://play.google.com/store/apps/details?id=com.crazylabs.amaze.game",
+        "featured": true
     },
     {
         "id": 27,
@@ -222,7 +222,8 @@
         "cover": "{COVER_URL}/27.png",
         "url": "{HTML_URL}/27.html",
         "author": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
-        "authorLink": "RobTop Games"
+        "authorLink": "RobTop Games",
+        "featured": true
     },
     {
         "id": 28,
@@ -270,7 +271,8 @@
         "cover": "{COVER_URL}/33.png",
         "url": "{HTML_URL}/33.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 34,
@@ -278,7 +280,8 @@
         "cover": "{COVER_URL}/34.png",
         "url": "{HTML_URL}/34.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 35,
@@ -286,7 +289,8 @@
         "cover": "{COVER_URL}/35.png",
         "url": "{HTML_URL}/35.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 36,
@@ -390,8 +394,7 @@
         "cover": "{COVER_URL}/48.png",
         "url": "{HTML_URL}/48.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 49,
@@ -535,7 +538,8 @@
         "cover": "{COVER_URL}/66.png",
         "url": "{HTML_URL}/66.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 67,
@@ -559,8 +563,7 @@
         "cover": "{COVER_URL}/69.png",
         "url": "{HTML_URL}/69.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 70,
@@ -568,7 +571,8 @@
         "cover": "{COVER_URL}/70.png",
         "url": "{HTML_URL}/70.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 71,
@@ -728,7 +732,8 @@
         "cover": "{COVER_URL}/90.png",
         "url": "{HTML_URL}/90.html",
         "author": "",
-        "authorLink": ""
+        "authorLink": "",
+        "featured": true
     },
     {
         "id": 91,
@@ -808,8 +813,7 @@
         "cover": "{COVER_URL}/100.png",
         "url": "{HTML_URL}/100.html",
         "author": "",
-        "authorLink": "",
-        "featured": true
+        "authorLink": ""
     },
     {
         "id": 101,
@@ -1570,7 +1574,8 @@
         "cover": "{COVER_URL}/198.png",
         "url": "{HTML_URL}/198.html",
         "author": "coweggs",
-        "authorLink": "https://coweggs.itch.io/slope-plus"
+        "authorLink": "https://coweggs.itch.io/slope-plus",
+        "featured": true
     },
     {
         "id": 199,
@@ -1642,8 +1647,7 @@
         "cover": "{COVER_URL}/207.png",
         "url": "{HTML_URL}/207.html",
         "author": "Royalec/Tokyo",
-        "authorLink": "https://google.com/search?q=Tokyo+Royalec",
-        "featured": true
+        "authorLink": "https://google.com/search?q=Tokyo+Royalec"
     },
     {
         "id": 208,
@@ -1699,8 +1703,7 @@
         "cover": "{COVER_URL}/214.png",
         "url": "{HTML_URL}/214.html",
         "author": "ZeptoLab",
-        "authorLink": "https://www.zeptolab.com",
-        "featured": true
+        "authorLink": "https://www.zeptolab.com"
     },
     {
         "id": 215,
@@ -2092,7 +2095,8 @@
         "cover": "{COVER_URL}/264.png",
         "url": "{HTML_URL}/264.html",
         "author": "AzGames",
-        "authorLink": "https://azgames.io/escape-road"
+        "authorLink": "https://azgames.io/escape-road",
+        "featured": true
     },
     {
         "id": 265,
@@ -2620,7 +2624,8 @@
         "cover": "{COVER_URL}/330.png",
         "url": "{HTML_URL}/330.html",
         "author": "Anton Medvedev",
-        "authorLink": "https://medv.io"
+        "authorLink": "https://medv.io",
+        "featured": true
     },
     {
         "id": 331,
@@ -3460,8 +3465,7 @@
         "cover": "{COVER_URL}/437.png",
         "url": "{HTML_URL}/437.html",
         "author": "Azur Games, Playgendary",
-        "authorLink": "https://azurgames.com",
-        "featured": true
+        "authorLink": "https://azurgames.com"
     },
     {
         "id": 438,
@@ -4345,7 +4349,8 @@
         "cover": "{COVER_URL}/547.png",
         "url": "{HTML_URL}/547.html",
         "author": "Blue Wizard",
-        "authorLink": "https://baseballbros.io"
+        "authorLink": "https://baseballbros.io",
+        "featured": true
     },
     {
         "id": 548,
@@ -4449,7 +4454,8 @@
         "cover": "{COVER_URL}/560.jpg",
         "url": "{HTML_URL}/560.html",
         "author": "idk",
-        "authorLink": "no"
+        "authorLink": "no",
+        "featured": true
     },
     {
         "id": 561,
@@ -4553,8 +4559,7 @@
         "cover": "{COVER_URL}/576.png",
         "url": "{HTML_URL}/576.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
         "id": 577,
@@ -4562,8 +4567,7 @@
         "cover": "{COVER_URL}/577.png",
         "url": "{HTML_URL}/577.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
        "id": 580,
@@ -4571,8 +4575,7 @@
         "cover": "{COVER_URL}/578.png",
         "url": "{HTML_URL}/580.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     }, 
     {
        "id": 581,
@@ -4580,8 +4583,7 @@
         "cover": "{COVER_URL}/579.png",
         "url": "{HTML_URL}/581.html",
         "author": "idk",
-        "authorLink": "no",
-        "featured": true
+        "authorLink": "no"
     },
     {
        "id": 582,
